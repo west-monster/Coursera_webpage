@@ -33,6 +33,7 @@ p{
 }
 
 .box{
+    background-color: grey;
     margin: auto;
     position: relative;
     border: 1px solid black;
@@ -51,16 +52,6 @@ p{
     text-align: center;
 }
 
-#box-one{
-    background-color: dodgerblue;
-}
-#box-two{
-    background-color: green;
-}
-
-#box-three{
-    background-color: azure;
-}
 
 #mini-box-one{
     background-color: pink;
