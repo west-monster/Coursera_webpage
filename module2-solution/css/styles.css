@@ -84,4 +84,8 @@ p{
     .container{
         width: 100%;
     }
+    .row{
+        padding-right: 40px;
+        padding-left: 40px;
+    }
 }
